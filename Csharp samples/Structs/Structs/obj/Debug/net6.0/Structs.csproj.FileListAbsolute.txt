@@ -1,0 +1,15 @@
+C:\Users\hugor\Desktop\Aulas\alunos\Everton profes\Everton-Botarelli-aluno\Csharp samples\Structs\Structs\bin\Debug\net6.0\Structs.exe
+C:\Users\hugor\Desktop\Aulas\alunos\Everton profes\Everton-Botarelli-aluno\Csharp samples\Structs\Structs\bin\Debug\net6.0\Structs.deps.json
+C:\Users\hugor\Desktop\Aulas\alunos\Everton profes\Everton-Botarelli-aluno\Csharp samples\Structs\Structs\bin\Debug\net6.0\Structs.runtimeconfig.json
+C:\Users\hugor\Desktop\Aulas\alunos\Everton profes\Everton-Botarelli-aluno\Csharp samples\Structs\Structs\bin\Debug\net6.0\Structs.dll
+C:\Users\hugor\Desktop\Aulas\alunos\Everton profes\Everton-Botarelli-aluno\Csharp samples\Structs\Structs\bin\Debug\net6.0\ref\Structs.dll
+C:\Users\hugor\Desktop\Aulas\alunos\Everton profes\Everton-Botarelli-aluno\Csharp samples\Structs\Structs\bin\Debug\net6.0\Structs.pdb
+C:\Users\hugor\Desktop\Aulas\alunos\Everton profes\Everton-Botarelli-aluno\Csharp samples\Structs\Structs\obj\Debug\net6.0\Structs.csproj.AssemblyReference.cache
+C:\Users\hugor\Desktop\Aulas\alunos\Everton profes\Everton-Botarelli-aluno\Csharp samples\Structs\Structs\obj\Debug\net6.0\Structs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugor\Desktop\Aulas\alunos\Everton profes\Everton-Botarelli-aluno\Csharp samples\Structs\Structs\obj\Debug\net6.0\Structs.AssemblyInfoInputs.cache
+C:\Users\hugor\Desktop\Aulas\alunos\Everton profes\Everton-Botarelli-aluno\Csharp samples\Structs\Structs\obj\Debug\net6.0\Structs.AssemblyInfo.cs
+C:\Users\hugor\Desktop\Aulas\alunos\Everton profes\Everton-Botarelli-aluno\Csharp samples\Structs\Structs\obj\Debug\net6.0\Structs.csproj.CoreCompileInputs.cache
+C:\Users\hugor\Desktop\Aulas\alunos\Everton profes\Everton-Botarelli-aluno\Csharp samples\Structs\Structs\obj\Debug\net6.0\Structs.dll
+C:\Users\hugor\Desktop\Aulas\alunos\Everton profes\Everton-Botarelli-aluno\Csharp samples\Structs\Structs\obj\Debug\net6.0\ref\Structs.dll
+C:\Users\hugor\Desktop\Aulas\alunos\Everton profes\Everton-Botarelli-aluno\Csharp samples\Structs\Structs\obj\Debug\net6.0\Structs.pdb
+C:\Users\hugor\Desktop\Aulas\alunos\Everton profes\Everton-Botarelli-aluno\Csharp samples\Structs\Structs\obj\Debug\net6.0\Structs.genruntimeconfig.cache

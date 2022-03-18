@@ -62,3 +62,31 @@ class Pessoa {
 
 Controlando o acesso **durante** o uso dos atributos e mantendo a flexibilidade/segurança do código.
 
+# Properties e autoProperties
+
+Aprofundaremos nesses tópicos mais a frente, porém seu uso é para diminuir a verbosidade dos getters and setters.
+
+## Propertie 
+
+Usado quando queremos personalizar o get ou o set:
+
+```c#
+public long Number {
+    get { return _number; }
+    set { 
+        if(value > 0) _number = value;
+        else Console.WriteLine($"O valor = {value} é inválido!");
+    }
+}
+```
+
+## Auto properties
+
+Atalho: *"prop"* + `tab` + `tab`
+
+```c#
+public string Name { get; private set; }
+public int Age { get; private set; }
+private long _number;
+```
+

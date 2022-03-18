@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dc3363a7-32d3-4afa-94ca-8cb532e3ff4b": {
+      "ProjectGuid": "dc3363a7-32d3-4afa-94ca-8cb532e3ff4b",
+      "DisplayName": "Getters and Setters",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
