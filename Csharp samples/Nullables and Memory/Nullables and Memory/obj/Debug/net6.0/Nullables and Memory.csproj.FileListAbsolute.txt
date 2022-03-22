@@ -1,0 +1,15 @@
+C:\Users\hugor\Desktop\Aulas\alunos\Everton profes\Everton-Botarelli-aluno\Csharp samples\Nullables and Memory\Nullables and Memory\bin\Debug\net6.0\Nullables and Memory.exe
+C:\Users\hugor\Desktop\Aulas\alunos\Everton profes\Everton-Botarelli-aluno\Csharp samples\Nullables and Memory\Nullables and Memory\bin\Debug\net6.0\Nullables and Memory.deps.json
+C:\Users\hugor\Desktop\Aulas\alunos\Everton profes\Everton-Botarelli-aluno\Csharp samples\Nullables and Memory\Nullables and Memory\bin\Debug\net6.0\Nullables and Memory.runtimeconfig.json
+C:\Users\hugor\Desktop\Aulas\alunos\Everton profes\Everton-Botarelli-aluno\Csharp samples\Nullables and Memory\Nullables and Memory\bin\Debug\net6.0\Nullables and Memory.dll
+C:\Users\hugor\Desktop\Aulas\alunos\Everton profes\Everton-Botarelli-aluno\Csharp samples\Nullables and Memory\Nullables and Memory\bin\Debug\net6.0\ref\Nullables and Memory.dll
+C:\Users\hugor\Desktop\Aulas\alunos\Everton profes\Everton-Botarelli-aluno\Csharp samples\Nullables and Memory\Nullables and Memory\bin\Debug\net6.0\Nullables and Memory.pdb
+C:\Users\hugor\Desktop\Aulas\alunos\Everton profes\Everton-Botarelli-aluno\Csharp samples\Nullables and Memory\Nullables and Memory\obj\Debug\net6.0\Nullables and Memory.csproj.AssemblyReference.cache
+C:\Users\hugor\Desktop\Aulas\alunos\Everton profes\Everton-Botarelli-aluno\Csharp samples\Nullables and Memory\Nullables and Memory\obj\Debug\net6.0\Nullables and Memory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugor\Desktop\Aulas\alunos\Everton profes\Everton-Botarelli-aluno\Csharp samples\Nullables and Memory\Nullables and Memory\obj\Debug\net6.0\Nullables and Memory.AssemblyInfoInputs.cache
+C:\Users\hugor\Desktop\Aulas\alunos\Everton profes\Everton-Botarelli-aluno\Csharp samples\Nullables and Memory\Nullables and Memory\obj\Debug\net6.0\Nullables and Memory.AssemblyInfo.cs
+C:\Users\hugor\Desktop\Aulas\alunos\Everton profes\Everton-Botarelli-aluno\Csharp samples\Nullables and Memory\Nullables and Memory\obj\Debug\net6.0\Nullables and Memory.csproj.CoreCompileInputs.cache
+C:\Users\hugor\Desktop\Aulas\alunos\Everton profes\Everton-Botarelli-aluno\Csharp samples\Nullables and Memory\Nullables and Memory\obj\Debug\net6.0\Nullables and Memory.dll
+C:\Users\hugor\Desktop\Aulas\alunos\Everton profes\Everton-Botarelli-aluno\Csharp samples\Nullables and Memory\Nullables and Memory\obj\Debug\net6.0\ref\Nullables and Memory.dll
+C:\Users\hugor\Desktop\Aulas\alunos\Everton profes\Everton-Botarelli-aluno\Csharp samples\Nullables and Memory\Nullables and Memory\obj\Debug\net6.0\Nullables and Memory.pdb
+C:\Users\hugor\Desktop\Aulas\alunos\Everton profes\Everton-Botarelli-aluno\Csharp samples\Nullables and Memory\Nullables and Memory\obj\Debug\net6.0\Nullables and Memory.genruntimeconfig.cache
