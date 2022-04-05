@@ -1,0 +1,15 @@
+C:\Users\hugor\Desktop\Aulas\alunos\Everton profes\Everton-Botarelli-aluno\Csharp samples\enums and layers\enums and layers\bin\Debug\net6.0\enums and layers.exe
+C:\Users\hugor\Desktop\Aulas\alunos\Everton profes\Everton-Botarelli-aluno\Csharp samples\enums and layers\enums and layers\bin\Debug\net6.0\enums and layers.deps.json
+C:\Users\hugor\Desktop\Aulas\alunos\Everton profes\Everton-Botarelli-aluno\Csharp samples\enums and layers\enums and layers\bin\Debug\net6.0\enums and layers.runtimeconfig.json
+C:\Users\hugor\Desktop\Aulas\alunos\Everton profes\Everton-Botarelli-aluno\Csharp samples\enums and layers\enums and layers\bin\Debug\net6.0\enums and layers.dll
+C:\Users\hugor\Desktop\Aulas\alunos\Everton profes\Everton-Botarelli-aluno\Csharp samples\enums and layers\enums and layers\bin\Debug\net6.0\ref\enums and layers.dll
+C:\Users\hugor\Desktop\Aulas\alunos\Everton profes\Everton-Botarelli-aluno\Csharp samples\enums and layers\enums and layers\bin\Debug\net6.0\enums and layers.pdb
+C:\Users\hugor\Desktop\Aulas\alunos\Everton profes\Everton-Botarelli-aluno\Csharp samples\enums and layers\enums and layers\obj\Debug\net6.0\enums and layers.csproj.AssemblyReference.cache
+C:\Users\hugor\Desktop\Aulas\alunos\Everton profes\Everton-Botarelli-aluno\Csharp samples\enums and layers\enums and layers\obj\Debug\net6.0\enums and layers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugor\Desktop\Aulas\alunos\Everton profes\Everton-Botarelli-aluno\Csharp samples\enums and layers\enums and layers\obj\Debug\net6.0\enums and layers.AssemblyInfoInputs.cache
+C:\Users\hugor\Desktop\Aulas\alunos\Everton profes\Everton-Botarelli-aluno\Csharp samples\enums and layers\enums and layers\obj\Debug\net6.0\enums and layers.AssemblyInfo.cs
+C:\Users\hugor\Desktop\Aulas\alunos\Everton profes\Everton-Botarelli-aluno\Csharp samples\enums and layers\enums and layers\obj\Debug\net6.0\enums and layers.csproj.CoreCompileInputs.cache
+C:\Users\hugor\Desktop\Aulas\alunos\Everton profes\Everton-Botarelli-aluno\Csharp samples\enums and layers\enums and layers\obj\Debug\net6.0\enums and layers.dll
+C:\Users\hugor\Desktop\Aulas\alunos\Everton profes\Everton-Botarelli-aluno\Csharp samples\enums and layers\enums and layers\obj\Debug\net6.0\ref\enums and layers.dll
+C:\Users\hugor\Desktop\Aulas\alunos\Everton profes\Everton-Botarelli-aluno\Csharp samples\enums and layers\enums and layers\obj\Debug\net6.0\enums and layers.pdb
+C:\Users\hugor\Desktop\Aulas\alunos\Everton profes\Everton-Botarelli-aluno\Csharp samples\enums and layers\enums and layers\obj\Debug\net6.0\enums and layers.genruntimeconfig.cache
