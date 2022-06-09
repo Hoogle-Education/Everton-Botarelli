@@ -1,0 +1,15 @@
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Everton profes\Everton-Botarelli-aluno\projects\Bank system\Bank system\bin\Debug\net6.0\Bank system.exe
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Everton profes\Everton-Botarelli-aluno\projects\Bank system\Bank system\bin\Debug\net6.0\Bank system.deps.json
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Everton profes\Everton-Botarelli-aluno\projects\Bank system\Bank system\bin\Debug\net6.0\Bank system.runtimeconfig.json
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Everton profes\Everton-Botarelli-aluno\projects\Bank system\Bank system\bin\Debug\net6.0\Bank system.dll
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Everton profes\Everton-Botarelli-aluno\projects\Bank system\Bank system\bin\Debug\net6.0\ref\Bank system.dll
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Everton profes\Everton-Botarelli-aluno\projects\Bank system\Bank system\bin\Debug\net6.0\Bank system.pdb
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Everton profes\Everton-Botarelli-aluno\projects\Bank system\Bank system\obj\Debug\net6.0\Bank system.csproj.AssemblyReference.cache
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Everton profes\Everton-Botarelli-aluno\projects\Bank system\Bank system\obj\Debug\net6.0\Bank system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Everton profes\Everton-Botarelli-aluno\projects\Bank system\Bank system\obj\Debug\net6.0\Bank system.AssemblyInfoInputs.cache
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Everton profes\Everton-Botarelli-aluno\projects\Bank system\Bank system\obj\Debug\net6.0\Bank system.AssemblyInfo.cs
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Everton profes\Everton-Botarelli-aluno\projects\Bank system\Bank system\obj\Debug\net6.0\Bank system.csproj.CoreCompileInputs.cache
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Everton profes\Everton-Botarelli-aluno\projects\Bank system\Bank system\obj\Debug\net6.0\Bank system.dll
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Everton profes\Everton-Botarelli-aluno\projects\Bank system\Bank system\obj\Debug\net6.0\ref\Bank system.dll
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Everton profes\Everton-Botarelli-aluno\projects\Bank system\Bank system\obj\Debug\net6.0\Bank system.pdb
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Everton profes\Everton-Botarelli-aluno\projects\Bank system\Bank system\obj\Debug\net6.0\Bank system.genruntimeconfig.cache

@@ -1,14 +1,14 @@
-﻿namespace Bank_system.entities {
+﻿namespace Bank_system.entities.account {
     public class SavingsAccount : Account {
         
         public double Tax { get; private set; }
 
-        public SavingsAccount(string holder, int number) 
-            : base(holder, number) {
+        public SavingsAccount(string holder) 
+            : base(holder) {
         }
 
-        public SavingsAccount(double balance, string holder, int number, double tax)
-            : base(balance, holder, number) {
+        public SavingsAccount(double balance, string holder, double tax)
+            : base(balance, holder) {
             Tax = tax;
         }
         
@@ -16,20 +16,24 @@
             if(meses >= 6 ){
 
                 Console.WriteLine($" ### demonstrativo dos investimentos ###");
-                double ValorInicial = Balance;
+                double ValorInicial = Balance ?? 0;
 
                 for (int i = 1; i <= 8; i++) { 
                     Console.WriteLine($"Valor {i}° mês: {UpdateBalance()}");
                 }
 
-                Console.WriteLine();
+                Console.WriteLine($"Lucro obtido pelos investimentos: {Balance - ValorInicial}");
             }
         }
 
         private double UpdateBalance(){
-            return Balance *= (1.0 + Tax);
+            double value = Balance ?? 0.0;
+            return (double)(Balance = value * (1.0 + Tax));
         }
 
+        public override string ToString() {
+            return "Savings "+ base.ToString();
+        }
 
     }
 }

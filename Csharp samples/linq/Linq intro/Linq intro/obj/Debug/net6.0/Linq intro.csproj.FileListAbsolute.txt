@@ -1,0 +1,15 @@
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Everton profes\Everton-Botarelli-aluno\Csharp samples\linq\Linq intro\Linq intro\bin\Debug\net6.0\Linq intro.exe
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Everton profes\Everton-Botarelli-aluno\Csharp samples\linq\Linq intro\Linq intro\bin\Debug\net6.0\Linq intro.deps.json
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Everton profes\Everton-Botarelli-aluno\Csharp samples\linq\Linq intro\Linq intro\bin\Debug\net6.0\Linq intro.runtimeconfig.json
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Everton profes\Everton-Botarelli-aluno\Csharp samples\linq\Linq intro\Linq intro\bin\Debug\net6.0\Linq intro.dll
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Everton profes\Everton-Botarelli-aluno\Csharp samples\linq\Linq intro\Linq intro\bin\Debug\net6.0\Linq intro.pdb
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Everton profes\Everton-Botarelli-aluno\Csharp samples\linq\Linq intro\Linq intro\obj\Debug\net6.0\Linq intro.csproj.AssemblyReference.cache
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Everton profes\Everton-Botarelli-aluno\Csharp samples\linq\Linq intro\Linq intro\obj\Debug\net6.0\Linq intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Everton profes\Everton-Botarelli-aluno\Csharp samples\linq\Linq intro\Linq intro\obj\Debug\net6.0\Linq intro.AssemblyInfoInputs.cache
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Everton profes\Everton-Botarelli-aluno\Csharp samples\linq\Linq intro\Linq intro\obj\Debug\net6.0\Linq intro.AssemblyInfo.cs
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Everton profes\Everton-Botarelli-aluno\Csharp samples\linq\Linq intro\Linq intro\obj\Debug\net6.0\Linq intro.csproj.CoreCompileInputs.cache
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Everton profes\Everton-Botarelli-aluno\Csharp samples\linq\Linq intro\Linq intro\obj\Debug\net6.0\Linq intro.dll
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Everton profes\Everton-Botarelli-aluno\Csharp samples\linq\Linq intro\Linq intro\obj\Debug\net6.0\ref\Linq intro.dll
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Everton profes\Everton-Botarelli-aluno\Csharp samples\linq\Linq intro\Linq intro\obj\Debug\net6.0\Linq intro.pdb
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Everton profes\Everton-Botarelli-aluno\Csharp samples\linq\Linq intro\Linq intro\obj\Debug\net6.0\Linq intro.genruntimeconfig.cache
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Everton profes\Everton-Botarelli-aluno\Csharp samples\linq\Linq intro\Linq intro\obj\Debug\net6.0\refint\Linq intro.dll
