@@ -1,0 +1,5 @@
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Everton profes\Everton-Botarelli-aluno\projects\Funcionarios e Terceirizados\Funcionarios e Terceirizados\obj\Debug\net6.0\Funcionarios e Terceirizados.csproj.AssemblyReference.cache
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Everton profes\Everton-Botarelli-aluno\projects\Funcionarios e Terceirizados\Funcionarios e Terceirizados\obj\Debug\net6.0\Funcionarios e Terceirizados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Everton profes\Everton-Botarelli-aluno\projects\Funcionarios e Terceirizados\Funcionarios e Terceirizados\obj\Debug\net6.0\Funcionarios e Terceirizados.AssemblyInfoInputs.cache
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Everton profes\Everton-Botarelli-aluno\projects\Funcionarios e Terceirizados\Funcionarios e Terceirizados\obj\Debug\net6.0\Funcionarios e Terceirizados.AssemblyInfo.cs
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Everton profes\Everton-Botarelli-aluno\projects\Funcionarios e Terceirizados\Funcionarios e Terceirizados\obj\Debug\net6.0\Funcionarios e Terceirizados.csproj.CoreCompileInputs.cache
